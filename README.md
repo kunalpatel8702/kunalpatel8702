@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ... software programming
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...https://www.linkedin.com/in/patelkunal8702
+- 📫 How to reach me ... https://www.linkedin.com/in/kunalpatel8702
 - 🖥️ My website ... http://www.kunalpatel.tk/ 
 - 🖥️ My team ... http://kunalpatel.ml/
 <!---
